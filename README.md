@@ -172,11 +172,15 @@ Future improvements could include:
 ```text
 India-World-Economic-Sectors-EDA/
 │
-├── EDA_Project.ipynb
-├── EDA_Project_india_world_economic_sectors.csv
+├── Data/
+│   └── EDA_Project_india_world_economic_sectors.csv
+│
+├── Notebook/
+│   └── EDA Project on India & World Economic Sectors.ipynb
+│
+├── LICENSE
 └── README.md
 ```
-
 ---
 
 ## 👨‍💻 Skills Demonstrated
