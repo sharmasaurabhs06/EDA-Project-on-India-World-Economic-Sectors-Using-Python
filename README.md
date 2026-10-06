@@ -173,7 +173,7 @@ Future improvements could include:
 EDA-Project-on-India-World-Economic-Sectors-Using-Python/
 │
 ├── Data/
-│   └── EDA_Project_india_world_economic_sectors.csv
+│   └── India world economic sectors data Sample.csv
 │
 ├── Notebook/
 │   └── EDA Project on India & World Economic Sectors.ipynb
