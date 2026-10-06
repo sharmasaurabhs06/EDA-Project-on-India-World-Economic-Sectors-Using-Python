@@ -170,7 +170,7 @@ Future improvements could include:
 ## 📁 Project Structure
 
 ```text
-India-World-Economic-Sectors-EDA/
+EDA-Project-on-India-World-Economic-Sectors-Using-Python/
 │
 ├── Data/
 │   └── EDA_Project_india_world_economic_sectors.csv
